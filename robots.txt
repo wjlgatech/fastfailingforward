@@ -1,1 +1,1 @@
-Sitemap: https://wjlgatech.github.io/fastfailingforward/sitemap.xml
+Sitemap: fastfailingforward.ai/vblog/sitemap.xml
