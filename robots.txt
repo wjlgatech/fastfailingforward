@@ -1,1 +1,1 @@
-Sitemap: fastfailingforward.ai/vblog/sitemap.xml
+Sitemap: https://fastfailingforward.ai/sitemap.xml
